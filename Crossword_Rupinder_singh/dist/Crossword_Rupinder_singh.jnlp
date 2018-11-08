@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Crossword_Rupinder_singh.jnlp">
+  <information>
+    <title>Crossword_Rupinder_singh</title>
+    <vendor>Rupinder</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Crossword_Rupinder_singh.jar" size="89093" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Crossword_Rupinder_singh" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="crossword_rupinder_singh.Crossword_Rupinder_singh"  name="Crossword_Rupinder_singh" />
+  <update check="always"/>
+</jnlp>

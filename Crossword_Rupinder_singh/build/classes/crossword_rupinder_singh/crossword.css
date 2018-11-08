@@ -1,0 +1,23 @@
+.label2{
+    -fx-border-color: black;
+    -fx-pref-height:25;
+    -fx-pref-width: 25;
+}
+.label1{
+    -fx-pref-height:40;
+    -fx-pref-width: 120;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+.but1{
+    -fx-pref-height:30;
+    -fx-pref-width: 120;
+}
+.acrossLabel{
+    -fx-border-color: black;
+    -fx-pref-width: 150;
+}
+.downLabel{
+    -fx-border-color: black;
+    -fx-pref-width: 150;
+}
