@@ -1,0 +1,6 @@
+This crossword game is one of my first game made in school. It uses Java, JavaFx and has fixed questions because of no database used in it.
+When you run the game it prompt you for your name and that name is displayed when you play the game along with the score. It also have a timmer so you can see how fast you completed the game.
+Grid is made using a 2-d array, for loop and using the labels to make it easier.
+You can type the answer in the box and if it is correct it will put it in the grid and increase your score.
+You can end the game in-between or just press solve me button to just end the game.
+On the final window it will display you score and name.
