@@ -1,0 +1,6 @@
+This program is a web based game which used Java, Servlets, MySQL and Apache Tomcate.
+The game start's by asking you a username to make an entry in the database where it keep tracks of all the entries and score.
+After entering the username you are prompt to select which amount you wanna go for.
+In the database there are almost 50+ questions and when you play the game each time the questions are selected randomly.
+you are jumping back and forth between the question amount and the question for that amount until you have completed all the questions or you have decided to leave the game.
+At the end you are prompt to scorboard to see your score and ranking and it pulls the data from the database of all the previous players and will make an entry of your score as well by rearranging the order based on highest score.
