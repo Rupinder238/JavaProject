@@ -1,0 +1,46 @@
+body{
+    background-image: url("background.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+input{
+    width: 50%;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    box-sizing: border-box;
+    border: solid blue;
+    background-color: skyblue;
+    color: red;
+    text-shadow: 4px 4px 10px red;
+}
+h1,p{
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    text-shadow: 4px 4px 10px red;
+}
+form{
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 5px 5px 20px white;
+    text-align: left;
+}
+button{
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    border-radius: 12px;
+    color: black;
+    width: 20%;
+    padding: 10px 10px;
+    margin: 10px 180px;
+    box-sizing: border-box;
+    border: solid black;
+    background-color: transparent;
+    font-size: 30px;
+    text-shadow: 4px 4px 10px red;
+}

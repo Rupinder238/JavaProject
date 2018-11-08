@@ -1,0 +1,16 @@
+body{
+    background-image:url("back.jpg"); 
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+h1,h2{font-family: Monotype Corsiva;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    text-shadow: 4px 4px 10px red;
+}
+img {
+    display: block;
+    margin: auto;
+}

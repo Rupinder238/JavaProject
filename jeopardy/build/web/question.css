@@ -1,0 +1,44 @@
+body{
+    background-image: url("background.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+table, th, td {
+    border: 5px solid  #e60000;
+    border-collapse: collapse;
+    padding: 10px;
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 12px;
+    text-shadow: 4px 4px 10px red;
+}
+h1{font-family: Monotype Corsiva;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+    text-shadow: 4px 4px 10px red;
+}
+h2{font-family: Monotype Corsiva;
+    font-weight: bold;
+    color: black;
+    font-size: 30px;
+    margin-right: 120px;
+    text-shadow: 4px 4px 10px red;
+}
+button{
+    font-family: Monotype Corsiva;
+    font-weight: bold;
+    border-radius: 12px;
+    border: solid black;
+    background-color: transparent;
+    font-size: 30px;
+    text-shadow: 4px 4px 10px red;
+    padding: 0px;
+    height: 40px;
+    width: 80px;
+    box-sizing: border-box;
+    color: black;
+}
